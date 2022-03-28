@@ -1,0 +1,5 @@
+C:\Users\00114451\Documents\Visual Studio 2008\Projects\SampleWinService\SampleWinService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\00114451\Documents\Visual Studio 2008\Projects\SampleWinService\SampleWinService\bin\Debug\SampleWinService.exe
+C:\Users\00114451\Documents\Visual Studio 2008\Projects\SampleWinService\SampleWinService\bin\Debug\SampleWinService.pdb
+C:\Users\00114451\Documents\Visual Studio 2008\Projects\SampleWinService\SampleWinService\obj\Debug\SampleWinService.exe
+C:\Users\00114451\Documents\Visual Studio 2008\Projects\SampleWinService\SampleWinService\obj\Debug\SampleWinService.pdb
